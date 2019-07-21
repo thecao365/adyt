@@ -1,1 +1,4 @@
 www.youtube.com##.ytp-ce-element
+www.youtube.com##.ytp-scroll-min.ytp-pause-overlay
+www.facebook.com###pagelet_canvas_nav_content
+www.facebook.com###pagelet_gaming_destination_rhc
